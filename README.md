@@ -1,4 +1,4 @@
 # avi
 this is my first git repository
 <br>
-Auther - Aviral Shukla
+Auther - Aviral (avi formation)
